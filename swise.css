@@ -1,7 +1,9 @@
+
 @font-face {
     font-family: myFirstFont;
-    src: url("DJB It's Our Choices.ttf");
+    src: url("DBJ It's Our Choices.ttf");
 }
+
 
 body{
 background-image: 
@@ -13,7 +15,7 @@ opacity: .9;
 margin-left: 12%;
 margin-right: 12%;
 min-height: 400px;
-
+min-width:500px;
 
 
 }
@@ -27,7 +29,7 @@ margin-right: 10%;
 margin-bottom: 10%;
 border: 2px solid gray;
 height: 50%;
-	
+min-width:925px;	
 }
 
 h1{
@@ -36,6 +38,10 @@ font-size: 100px;
 color: pink;
 text-align: center;
 height: 125px;
+}
+
+h2{
+font-family: myFirstFont;
 }
 
 p{
