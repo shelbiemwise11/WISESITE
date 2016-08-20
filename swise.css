@@ -125,6 +125,9 @@ th{
 	text-align:left;
 	padding-right: 10px;
 }
+td{
+	text-align:center;
+}
 
 .gridim{
 	width:240px;
