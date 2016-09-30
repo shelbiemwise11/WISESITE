@@ -14,8 +14,8 @@ background-color: white;
 opacity: .9;
 margin-left: 12%;
 margin-right: 12%;
-min-height: 400px;
-min-width:500px;
+min-height: 90%;
+
 
 
 }
@@ -27,8 +27,6 @@ opacity: .9;
 margin-left: 12%;
 margin-right: 12%;
 min-height:800px;
-min-width:500px;
-
 
 }
 #centerBodyBodyPage{
@@ -43,6 +41,9 @@ height: 50%;
 min-width:925px;	
 }
 
+div .info{
+	padding: 25px 50px 75px 100px;
+}
 h1{
 font-family: myFirstFont;
 font-size: 100px;
@@ -52,19 +53,18 @@ height: 125px;
 }
 
 h2{
-font-family: sans-serif;
+font: 20px Arial, sans-serif;
 margin: 0px;
 }
 h3{
-font-family: sans-serif;
+font: 12px/18px Arial, sans-serif;
 text-indent: 50px;
 margin:0px;
 }
 
 p{
 margin:0px;
-font-size: 18px;
-font-family: Sans-serif;
+font: 12px/18px Arial, sans-serif;
 padding-left:10%;
 padding-right:10%;
 max-width:50%;
@@ -118,15 +118,16 @@ display: inline;
 table{
 	font-family: Arial, Helvetica, sans-serif;
 	margin-left: 10%;
-	margin-top: 5%;
-	padding:10px;
+	margin-top: 2%;
+	
 }
 th{
 	text-align:left;
 	padding-right: 10px;
 }
 td{
-	text-align:center;
+	text-align:left;
+	padding: 0px;
 }
 
 .gridim{

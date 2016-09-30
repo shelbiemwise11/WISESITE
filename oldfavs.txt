@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+	<head>   
+		<title> Shelbie Wise </title>
+        <link rel="stylesheet" type="text/css" href="grid.css">
+		
+	
+	</head>
+	
+	<body>
+	<ul>
+	<li><a href="index.html"> HOME </a></li>
+	<li><a href="aboutMe.html"> ABOUT ME </a></li>
+	<li><a href="edu.html"> EDUCATION </a></li>
+	<li><a href="favs.html"> FAVORITES </a></li>
+	<li><a href="diy.html"> DIY PROJECTS </a></li>
+	</ul>
+	<div class ="centerBodyTitlePage">
+	<table>
+		<tr>
+			<td><a href="diyFirstBuild.html"><img class="gridim" src="mobocpu.jpg" alt="First Build"/></a></td>		
+			<td><a href="https://www.nordstromrack.com/shop/product/1693807/tmd-black-white-ctrl-alt-delete-mug"><img class="gridim" src="cadmug.jpg" alt="First Build"/></a></td>
+			<td><a href="diyFirstBuild.html"><img class="gridim" src="cadmug.jpg" alt="First Build"/></a></td>
+		</tr>
+		<tr>
+		<td>First Build</td>
+		<td>ctr alt delete mug</td>
+		<td>some other diy</td>
+		</tr>
+		<tr>
+			<td><a href="diyFirstBuild.html"><img class="gridim" src="mobocpu.jpg" alt="First Build"/></a></td>		
+			<td><a href="https://www.nordstromrack.com/shop/product/1693807/tmd-black-white-ctrl-alt-delete-mug"><img class="gridim" src="cadmug.jpg" alt="First Build"/></a></td>
+			<td><a href="diyFirstBuild.html"><img class="gridim" src="cadmug.jpg" alt="First Build"/></a></td>
+		</tr>
+		<tr>
+		<td>First Build</td>
+		<td>ctr alt delete mug</td>
+		<td>some other diy</td>
+		</tr>
+		
+	</table>	
+	<!-- <td><a href=".html"><img class="gridim" src=".JPG" alt=""/></a></td> !-->
+	</div>
+	</body>
+	
+<!-- http://www.free-fonts-download.com/Script/laura-claire-font !-->
+
+</html>
+
+<a href="http://www.iwcc.edu/"><img src="reiverLogo.jpg" alt="IWCC" height="100px" width="130px" align="right"/></a> 
+		<a href="http://www.nwmissouri.edu/"> <img src="bearcatlogo.jpg" alt="NWMSU" height="100px" width="100px" align="left"/></a> 
